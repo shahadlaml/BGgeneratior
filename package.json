@@ -1,0 +1,19 @@
+{
+  "name": "bggeneratior",
+  "version": "1.0.0",
+  "description": "this is the site i made while following along the udemy course",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahadlaml/BGgeneratior.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahadlaml/BGgeneratior/issues"
+  },
+  "homepage": "https://github.com/shahadlaml/BGgeneratior#readme"
+}
